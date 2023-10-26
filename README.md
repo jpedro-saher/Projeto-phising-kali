@@ -7,7 +7,7 @@ Desafio de phising do curso scybersecurity essentials DIO
 
 ### Projeto
 
-Utilizando a ferramenta setoolkit no kali linux foi possivel fazer um "clone" da pagina de login do gmail, aonde seria possivel capturar o login e senha do ususario
+Utilizando a ferramenta setoolkit no kali linux foi possivel fazer um "clone" da pagina de login do gmail, aonde seria possivel capturar o login e senha do ususario sem que o mesmo percebesse, pois a pagina iria redirecionar para a original logo em seguida.
 
 ## print da pagina 
 
